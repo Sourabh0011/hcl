@@ -41,8 +41,8 @@ export default function Navbar() {
               <BrainCircuit className="w-5 h-5 text-white" />
             </div>
             <div>
-              <span className="font-extrabold text-sm tracking-tight text-white flex items-center gap-1.5">
-                Antigravity <span className="text-indigo-400 font-medium">Path</span>
+              <span className="font-extrabold text-sm tracking-tight text-white flex items-center gap-1.9">
+                LearnFlow <span className="text-indigo-400 font-medium"></span>
               </span>
               <span className="text-[10px] text-slate-400 block -mt-0.5 font-mono">
                 AI Learning Engine
